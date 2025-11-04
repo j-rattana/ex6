@@ -29,8 +29,8 @@ caption{
 }
 
 th, td {
-  text-align: middle;
-  vertical-align:middle;
+  text-align: center;
+  vertical-align: middle;
 }
 
 td {
